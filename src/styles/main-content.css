@@ -43,6 +43,12 @@
     cursor: pointer;
 
 }
+.header__login
+{
+    display: flex;
+    align-items: center;
+    
+}
 .header__search
 {
 display: flex;
@@ -72,17 +78,12 @@ border: 1px solid transparent;
     overflow: hidden;
     white-space: nowrap;
 }
-.header__login
-{
-    display: flex;
-    align-items: center;
-}
+
 .header__login .subscribe{
     color:#a7a7a7;
     font-size: 16px;
     font-weight: 700;
     background-color: transparent;
-    margin-left: 20px;
     margin-right: 32px; 
     border: 0;
     cursor: pointer;
@@ -98,4 +99,34 @@ border: 1px solid transparent;
     border-radius: 40px;
     cursor: pointer;
 
+}
+
+.card__container
+{
+    height: 68vh;
+    padding-top: 16px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #121212;
+   
+}
+
+.card__container .card__section
+{
+    margin:24px;
+    
+}
+.afternoon
+{
+    color: var(--letter-color);
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 48px;
+   
+}
+.all-sections
+{
+    color: var(--letter-color);
+    font-size: 24px;
+    font-weight: 700;    
 }

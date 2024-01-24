@@ -4,6 +4,7 @@
     --font-dm-sans:"DM Sans", sans-serif;
     /* Colors */
     --bg-icon:#131313;
-    --bg-arrow-color:rgba(0,0,07)
+    --bg-arrow-color:rgba(0,0,07);
+    --letter-color: #b3b3b3 ;
 
 }
