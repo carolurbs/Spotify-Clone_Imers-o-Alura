@@ -197,7 +197,7 @@ border: 10px solid black;
     display: flex;
     flex-direction: column;
     color: #b3b3b3;
-    font-size: 14px;
+    font-size: 16px;
     text-decoration: none;
     text-transform: none;
 }
@@ -205,7 +205,9 @@ border: 10px solid black;
 .footer__content .footer_title
 {
     font-weight: 700;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 14px;
 
 }
 
@@ -218,17 +220,13 @@ border: 10px solid black;
 {
     align-items: center;
     background-color: #fff;
-    border: 1px solid #fff;
+    border: 0px;
     color:#000;
     font-weight: bold;
     cursor: pointer;
     width: 170px;
-    margin:8px;
-    padding:8px;
-    border-radius:20px;
-}
-.footer .footer_button:hover
-{
-    border: 2px solid #fff;
-    font-size: 15px;
+    padding:14px 30px;
+    border-radius:40px;
+    flex-shrink: 0;
+
 }

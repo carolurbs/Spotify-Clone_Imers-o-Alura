@@ -85,6 +85,7 @@ border: 1px solid transparent;
     margin-left: 20px;
     margin-right: 32px; 
     border: 0;
+    cursor: pointer;
 
 }
 .header__login .login
@@ -95,5 +96,6 @@ border: 1px solid transparent;
     font-size: 16px;
     font-weight: 700;
     border-radius: 40px;
+    cursor: pointer;
 
 }
