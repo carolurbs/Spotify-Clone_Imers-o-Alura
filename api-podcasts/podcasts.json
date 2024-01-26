@@ -1,0 +1,11 @@
+{
+    "podcasts": [
+      { "id": 8, "name": "Bem Eleganza", "genre": "Hobbies", "urlImg": "https://i.scdn.co/image/ab6765630000ba8a0de49c75aaf9090c6c0f886a"},
+      { "id": 9, "name": "Nerdcast", "genre": " Cultura Pop", "urlImg": "https://i.scdn.co/image/ab67656300005f1ff98403d2282f57df937c5fb5" },
+      { "id": 10, "name": "Divã da Diva", "genre": "Humor", "urlImg": "https://i.scdn.co/image/ab67656300005f1fd4e2029b01195af4c088a142" },
+      { "id": 11, "name": " Podcast ParaTudo", "genre": "Cultura Pop", "urlImg": "https://i.scdn.co/image/ab6765630000ba8adafed893dc2e60e3d64a17cd" },
+      { "id": 12, "name": "DiaCast", "genre": "Humor", "urlImg": "https://i.scdn.co/image/ab6765630000ba8ad80e2f4b0e7aa9b950197747" },
+      { "id": 13, "name": " Modus Operandi", "genre": "Crimes Reais", "urlImg": "https://i.scdn.co/image/ab6765630000ba8a83555955efdccbabcec5cf81" },
+      { "id": 14, "name": "PodDelas", "genre": "Humor", "urlImg": "https://i.scdn.co/image/ab67656300005f1f7816cf087d5372059d5242c1" }
+    ]
+  }
